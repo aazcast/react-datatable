@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/ashvin27/react-datatable.git"
   },
-  "publishConfig": { 
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
@@ -51,10 +51,11 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-scripts": "1.1.4",
+    "snyk": "^1.349.0",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2",
     "webpack": "^3.10.0",
-    "snyk": "^1.349.0"
+    "webpack-cli": "^3.3.12"
   },
   "keywords": [
     "react-datatable",
